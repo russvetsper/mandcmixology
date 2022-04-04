@@ -106,7 +106,7 @@ p {
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     border-color: black;
-    boder-right: 0;
+    border-right: 0;
   }
   .fixed-side-navbar .nav > li a:hover > span {
     color: black;
@@ -345,10 +345,6 @@ p {
     border:4px solid #ff27b3;
   }
   
-  .tabgroup div  {
-  
-  }
-  
   .tabgroup p {
     background-color: rgba(0, 0, 0, 0.5);
     color: #fff;
@@ -494,8 +490,7 @@ p {
       font-size: 64px;
     }
   
-    .baner-content em {
-    }
+    
   
     .baner-content span {
       font-size: 24px;
